@@ -1,0 +1,8 @@
+{
+  "name": "Street Fighter",
+  "description": "Experience an intense 2D arcade fighting game with retro-neon visuals, responsive controls, and dynamic combat directly in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
